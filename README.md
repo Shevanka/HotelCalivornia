@@ -2,12 +2,6 @@
 
 A college test project developed in Java to demonstrate the principles of object-oriented programming (OOP) through a hotel management application.
 
-## About the Project
-
-**HotelCalivornia** is an educational Java application created as part of a college assignment. The project focuses on applying core OOP concepts to a practical domain: managing hotel operations.
-
-The project is intended for learning and demonstration purposes rather than production use.
-
 ## Learning Objectives
 
 This project demonstrates the use of:
